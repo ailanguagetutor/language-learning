@@ -508,6 +508,10 @@ http://www.genetickanji.com/
 http://japanese.gatech.edu/WebCTVista/JAPN1001/contents/Lesson02/hiragana/mnemonic-hiragana.html   
 http://japanese.gatech.edu/WebCTVista/JAPN1001/contents/Lesson02/katakana/mnemonic-katakana.html   
 
+### Verb conjugation
+
+https://www.aijapanesetutor.org/verbs/conjugation-practice
+
 ### Dictionaries
 
 https://jisho.org/   
